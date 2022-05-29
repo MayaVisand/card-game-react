@@ -2,6 +2,7 @@ import React from 'react';
 
 const Game = (props) => {
 
+
     return (
         <div className={'container'}>
             <h1>Let's PLAY {`${props.name}`}</h1>
